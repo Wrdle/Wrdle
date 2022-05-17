@@ -1,7 +1,7 @@
 <h1>Hey, I'm Matt 👋</h1>
 I'm Matt and welcome to GitHub profile. Currently I am currently based in Brisbane (Australia) working as a Software Engineering Graduate at Suncorp Bank. I am predominantly a backend engineer who enjoys tinkering with full stack projects.
 
-<h2>My skills</h2>
+<h2>My skills 👨‍💻</h2>
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white" />
