@@ -24,7 +24,7 @@ I'm Matt and welcome to GitHub profile. Currently I am currently based in Brisba
 <h2>What I'm learning 📚</h2>
 <table align="center">
   <tr>
-    <th>Skill</th>
+    <th>Skill / Certification</th>
     <th>Mastery Level</th>
     <th>How I am learning</th>
   </tr>
