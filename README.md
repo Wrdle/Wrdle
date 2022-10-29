@@ -1,5 +1,5 @@
 <h1>Hey, I'm Matt 👋</h1>
-I'm Matt and welcome to GitHub profile. Currently I am currently based in Brisbane (Australia) working as a Software Engineering Graduate at Suncorp Bank. I am predominantly a backend engineer who enjoys tinkering with full stack projects.
+I'm Matt and welcome to GitHub profile. Currently I am currently based in Brisbane (Australia) working as a Software Engineer at Suncorp Bank. I am predominantly a backend engineer who enjoys tinkering with full stack projects.
 
 <h2>My skills 👨‍💻</h2>
 <p align="center">
@@ -30,7 +30,7 @@ I'm Matt and welcome to GitHub profile. Currently I am currently based in Brisba
   </tr>
   <tr>
     <td>Certified Kubernetes Application Developer Certification</td>
-    <td>Intermediate</td>
+    <td>Advanced</td>
     <td>
       <ul>
         <li><a href="https://www.udemy.com/course/certified-kubernetes-application-developer/">CKAD Udemy Course</a></li>
